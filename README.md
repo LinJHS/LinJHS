@@ -3,7 +3,7 @@
 ## 🎯 About Me
 A researcher & developer focusing on **Cybersecurity**, **Large Language Models (LLMs)** and **Software Security**.
 - 📝 Share technical insights, research notes, and practical tutorials on my personal blog—welcome to connect and exchange!
-- 🌐 Personal Blog: [linjhs.top](https://linjhs.top) (Technical articles, research notes & development insights)
+- 🌐 Personal Blog: [**linjhs.top**](https://linjhs.top) (Technical articles, research notes & development insights)
 
 ## 🛠️ Tech Stack
 ### Programming Languages
@@ -25,4 +25,3 @@ A researcher & developer focusing on **Cybersecurity**, **Large Language Models 
 ![WeChat Mini Program](https://img.shields.io/badge/WeChat%20Mini%20Program-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
