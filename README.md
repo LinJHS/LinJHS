@@ -3,7 +3,7 @@
 ## 🎯 About Me
 A researcher & developer focusing on **Cybersecurity**, **Large Language Models (LLMs)** and **Software Security**.
 - 📝 Share technical insights, research notes, and practical tutorials on my personal blog—welcome to connect and exchange!
-- 🌐 Personal Blog: [**linjhs.top**](https://linjhs.top) (Technical articles, research notes & development insights)
+- 🌐 Personal Blog: [**linjhs.com**](https://linjhs.com) (Technical articles, research notes & development insights)
 
 ## 🛠️ Tech Stack
 ### Programming Languages
